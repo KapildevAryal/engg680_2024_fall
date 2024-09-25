@@ -1,3 +1,7 @@
-This is a sample README.md file. Please edit according to the instructions.
+Name:                        UCID:
+Kapildev Aryal             30266615
+Pawan Bhusal
+Samit Shrestha
+Manesh Pandit Chhetri
 
-Thanks :D
+This assignment is an introduction to Python, including data handling with Pandas and plotting with Matplotlib.
